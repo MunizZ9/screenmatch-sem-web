@@ -126,5 +126,7 @@ public class Principal {
         System.out.println("Media: " + est.getAverage());
         System.out.println("Melhor EP: " + est.getMax());
         System.out.println("Pior EP: " + est.getMin());
+
+
    }
 }
